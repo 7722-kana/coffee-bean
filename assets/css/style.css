@@ -18,10 +18,11 @@ h1,h2,h3,h4,h5,h6{
 p{
   font-family: "Raleway", sans-serif;
 }
-.wrapper{
-  width: 100%;
-  margin: auto;
+.wrapper {
+    width: 100%;
+    margin: auto;
 }
+
 /* (1) Header area */
 
 .nav {
@@ -375,7 +376,7 @@ form input[type="submit"] {
 }
 
 .footer-widgets {
-    width: 24%;
+    width: 24.25%;
     float: left;
     margin-right: 1%;
 }
@@ -407,7 +408,7 @@ form input[type="submit"] {
 }
 
 .footer-form * {
-    margin: auto;
+    width: auto;
 }
 
 .footer-social {
