@@ -407,7 +407,7 @@ form input[type="submit"] {
 }
 
 .footer-form * {
-    float: left;
+    margin: auto;
 }
 
 .footer-social {
